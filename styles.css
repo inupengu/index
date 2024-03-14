@@ -1,0 +1,14 @@
+*{
+    margin:0 ;
+    padding:0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-image:url(images/_adcf7dfe-60b6-415c-af75-987505e9fb6d.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 8%;
+}
